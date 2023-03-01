@@ -9,4 +9,5 @@ Models used for 3D printing are in the `Models` folder, and everything else is s
 ## Software used
 
 **Graphics**: Adobe Photoshop and Pinta
+
 **Models**: 3D Builder, Ultimaker Cura, and Blender 2.8
